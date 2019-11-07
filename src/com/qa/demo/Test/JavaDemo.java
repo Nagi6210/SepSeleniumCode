@@ -1,0 +1,10 @@
+package com.qa.demo.Test;
+
+public class JavaDemo {
+
+	public static void main(String[] args) {
+		System.out.println("Test Demo");
+
+	}
+
+}
